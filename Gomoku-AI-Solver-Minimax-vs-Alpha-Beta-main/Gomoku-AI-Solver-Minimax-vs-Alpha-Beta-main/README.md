@@ -1,4 +1,4 @@
-his project is a simple implementation of the Gomoku game using Prolog.
+This project is a simple implementation of the Gomoku game using Prolog.
 
 Features
 15x15 game board
